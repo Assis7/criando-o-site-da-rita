@@ -17,7 +17,9 @@
   "homepage": "https://github.com/Assis7/criando-o-site-da-rita#readme",
   "dependencies": {},
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "install": "^0.8.1"
   },
   "description": ""
 }
