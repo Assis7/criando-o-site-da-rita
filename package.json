@@ -1,0 +1,23 @@
+{
+  "name": "criando-site-para-rita",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Assis7/criando-o-site-da-rita.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Assis7/criando-o-site-da-rita/issues"
+  },
+  "homepage": "https://github.com/Assis7/criando-o-site-da-rita#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "description": ""
+}
